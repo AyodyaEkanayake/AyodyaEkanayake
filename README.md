@@ -1,4 +1,4 @@
-<h1 align="center">💙 Ayodya Ekanayake</h1>
+<h1 align="center"> Ayodya Ekanayake</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=5DADEC&center=true&vCenter=true&lines=ICT+Undergraduate;Future+Business+Analyst;Future+Project+Manager;Technology+%2B+Psychology+Explorer;Human-Centered+Innovator">
