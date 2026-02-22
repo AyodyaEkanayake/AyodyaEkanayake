@@ -1,77 +1,81 @@
-<h1 align="center">Hi 👋, I'm Ayodya Ekanayake</h1>
-
-<h3 align="center">
-🎓 BSc in Information Technology Student | 💙 Future Full Stack Developer
-</h3>
+<h1 align="center">💙 Ayodya Ekanayake</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=4DA6FF&center=true&vCenter=true&lines=Full+Stack+Developer;Backend+Enthusiast;Business+Analyst+Enthusiast;Building+Impactful+Projects;Always+Learning+New+Things+💙">
+<img src="https://readme-typing-svg.herokuapp.com?color=5DADEC&center=true&vCenter=true&lines=ICT+Undergraduate;Future+Business+Analyst;Future+Project+Manager;Technology+%2B+Psychology+Explorer;Human-Centered+Innovator">
 </p>
 
 ---
 
-## 💙 About Me
+## 🌌 About Me
 
-🌸 IT Undergraduate from Sri Lanka  
-🌸 Passionate about Full Stack Development  
-🌸 Backend + Business Analysis Enthusiast  
-🌸 Strong Communication & Analytical Skills  
-🌸 Building systems that make real-world impact  
+🌊 ICT undergraduate at the University of Vavuniya  
+🧠 Exploring the connection between technology and psychology  
+📊 Aspiring Business Analyst & Project Manager  
+💙 Passionate about people-centered solutions  
 
----
-
-## 🛠️ Skills
-
-### 💻 Programming & Development
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-
-### 🧠 Other Skills
-💙 Communication Skills  
-💙 Business Analysis  
-💙 Problem Solving  
+I believe the best systems are built when we understand the humans behind the data.
 
 ---
 
-## 🚀 Featured Projects
+## 🧊 Core Strengths
 
-💻 Calculator App  
+🔹 Human-Centered Thinking  
+🔹 Strategic Planning  
+🔹 Behavioral Insight  
+🔹 Communication & Leadership  
+🔹 Problem Solving  
+
+---
+
+## 🧠 Skill Matrix
+
+### 📊 Analysis & Management
+🟦🟦🟦🟦🟦⬜ Requirement Analysis  
+🟦🟦🟦🟦⬜⬜ Strategic Planning  
+🟦🟦🟦🟦🟦⬜ Communication  
+🟦🟦🟦🟦⬜⬜ Project Coordination  
+
+### 💻 Technology
+🟦🟦🟦🟦⬜⬜ JavaScript  
+🟦🟦🟦⬜⬜⬜ Node.js  
+🟦🟦🟦⬜⬜⬜ MongoDB  
+🟦🟦🟦🟦⬜⬜ HTML & CSS  
+
+---
+
+## 🚀 Featured Work
+
 🧠 Psychological Test Platform  
-🎨 Frontend Projects Collection  
+💻 Calculator Application  
+🎨 Frontend Project Collection  
 🌐 Adorly Website  
 🛡️ Fake Attendance Detection System  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AyodyaEkanayake&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyodyaEkanayake&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Activity
 
-💌 Email: your-email@example.com  
-💼 LinkedIn: your-link  
-🌸 Portfolio: your-portfolio  
+![snake gif](https://github.com/AyodyaEkanayake/AyodyaEkanayake/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-💙 “Dream big. Start small. Act now.”
+## 🌍 Connect With Me
+
+📍 Sri Lanka  
+📧 ayodyae822@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/ayodya-ekanayake-304163365/
+
+---
+
+## 💙 Personal Philosophy
+
+Technology should empower people, not overwhelm them.
