@@ -1,8 +1,5 @@
 <h1 align="center" style="color:#2F2F2F;"> Ayodya Ekanayake </h1>
 
-<h3 align="center" style="color:#6E6E6E;">
-ICT Undergraduate • Future Business Analyst • Project Manager
-</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=C0C0C0&center=true&vCenter=true&lines=Technology+%2B+Psychology;Future+Business+Analyst;Future+Project+Manager;Human-Centered+Innovator">
