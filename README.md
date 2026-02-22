@@ -99,7 +99,7 @@ Here are a few of my key repositories:
   &nbsp;
   <!-- Email -->
   <a href="mailto:ayodyae822@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40"/>
   </a>
   &nbsp;
   <!-- GitHub -->
