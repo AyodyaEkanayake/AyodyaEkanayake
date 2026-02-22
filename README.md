@@ -1,114 +1,28 @@
-<h1 align="center" style="color:#2F2F2F;"> Ayodya Ekanayake </h1>
+<h1 align="center">Hi 👋, I'm Ayodya Ekanayake</h1>
+<h3 align="center">Technology+Psychology;Future+Business+Analyst;Future+Project+Manager;Human-Centered+Innovator</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayodyaekanayake&label=Profile%20views&color=0e75b6&style=flat" alt="ayodyaekanayake" /> </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&center=true&vCenter=true&lines=Technology+%2B+Psychology;Future+Business+Analyst;Future+Project+Manager;Human-Centered+Innovator">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayodyaekanayake" alt="ayodyaekanayake" /></a> </p>
+
+- 🔭 I’m currently working on [psychological Test platform](https://github.com/AyodyaEkanayake/psyc-test-platform)
+
+- 🌱 I’m currently learning **Spring boot , C , UI/UX , Advanced SQL**
+
+- 👯 I’m looking to collaborate on [E - commerce platforms](https://github.com/AyodyaEkanayake/adorly-website)
+
+- 📫 How to reach me **ayodyae822@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ayodya ekanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayodya ekanayake" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🤍 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayodyaekanayake&show_icons=true&locale=en&layout=compact" alt="ayodyaekanayake" /></p>
 
-🧊 ICT undergraduate at the University of Vavuniya  
-📊 Aspiring Business Analyst & Project Manager  
-🧠 Passionate about technology + psychology  
-💼 Focused on people-centered innovation  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayodyaekanayake&show_icons=true&locale=en" alt="ayodyaekanayake" /></p>
 
-I aim to bridge the gap between people and systems through insight, strategy, and empathy.
-
----
-
-## 🥈 Core Strengths
-
-▫️ Analytical Thinking  
-▫️ Strategic Planning  
-▫️ Communication & Leadership  
-▫️ Behavioral Insight  
-▫️ Problem Solving  
-
----
-
-## 💻 Tech & Analysis Skills
-
-### 📊 Business & Strategy
-Requirement Analysis • Process Thinking • Strategic Planning
-
-### 💻 Development
-JavaScript • Node.js • MongoDB • React • HTML • CSS
-
-### 🌱 Personal Skills
-Communication • Leadership • Creativity • Self-learning
-
----
-
-## 🧠 Analyst Roadmap
-
-📌 Business Analysis Certification Path  
-📌 Project Management Skills Development  
-📌 Data Analysis Foundations  
-📌 UX & Human-Centered Design Knowledge  
-📌 Leadership & Communication Growth  
-
----
-
-## 💼 Internship-Ready Highlights
-
-✨ Strong communication skills  
-✨ Team collaboration ability  
-✨ Problem-solving mindset  
-✨ Fast learner  
-✨ Strategic thinker  
-
----
-
-## 🚀 Featured Projects
-
-🧠 Psychological Test Platform  
-💻 Calculator App  
-🎨 Frontend Projects  
-🌐 Adorly Website  
-🛡️ Fake Attendance Detection System  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AyodyaEkanayake&show_icons=true&theme=default&title_color=808080&icon_color=C0C0C0&text_color=2F2F2F" />
-</p>
-
----
-
-## 🏆 Trophy Showcase
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AyodyaEkanayake&theme=flat&title=Stars,Followers,Commit,Repositories" />
-</p>
-
----
-
-## 🌟 Visitor Counter
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AyodyaEkanayake&color=C0C0C0" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/AyodyaEkanayake/AyodyaEkanayake/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌍 Connect With Me
-
-📍 Sri Lanka  
-📧 ayodyae822@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/ayodya-ekanayake-304163365/
-
----
-
-##  Personal Motto
-
-Design systems that understand people.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayodyaekanayake&" alt="ayodyaekanayake" /></p>
