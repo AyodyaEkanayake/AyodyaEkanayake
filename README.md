@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=C0C0C0&center=true&vCenter=true&lines=Technology+%2B+Psychology;Future+Business+Analyst;Future+Project+Manager;Human-Centered+Innovator">
+<img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&center=true&vCenter=true&lines=Technology+%2B+Psychology;Future+Business+Analyst;Future+Project+Manager;Human-Centered+Innovator">
 </p>
 
 ---
