@@ -1,53 +1,54 @@
 <h1 align="center"> Ayodya Ekanayake</h1>
 
+<h3 align="center">
+ICT Undergraduate • Future Business Analyst • Project Leader
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=5DADEC&center=true&vCenter=true&lines=ICT+Undergraduate;Future+Business+Analyst;Future+Project+Manager;Technology+%2B+Psychology+Explorer;Human-Centered+Innovator">
+<img src="https://readme-typing-svg.herokuapp.com?color=C8A2C8&center=true&vCenter=true&lines=ICT+Student;Technology+%2B+Psychology+Explorer;Future+Business+Analyst;Future+Project+Manager;Human-Centered+Innovator">
 </p>
 
 ---
 
-## 🌌 About Me
+## 🌸 About Me
 
-🌊 ICT undergraduate at the University of Vavuniya  
-🧠 Exploring the connection between technology and psychology  
+💜 ICT undergraduate at the University of Vavuniya  
+🧠 Interested in technology + psychology  
 📊 Aspiring Business Analyst & Project Manager  
-💙 Passionate about people-centered solutions  
+🌸 Passionate about human-centered solutions  
 
-I believe the best systems are built when we understand the humans behind the data.
-
----
-
-## 🧊 Core Strengths
-
-🔹 Human-Centered Thinking  
-🔹 Strategic Planning  
-🔹 Behavioral Insight  
-🔹 Communication & Leadership  
-🔹 Problem Solving  
+I aim to design systems that understand people, not just processes.
 
 ---
 
-## 🧠 Skill Matrix
+## 🪻 Core Strengths
 
-### 📊 Analysis & Management
-🟦🟦🟦🟦🟦⬜ Requirement Analysis  
-🟦🟦🟦🟦⬜⬜ Strategic Planning  
-🟦🟦🟦🟦🟦⬜ Communication  
-🟦🟦🟦🟦⬜⬜ Project Coordination  
-
-### 💻 Technology
-🟦🟦🟦🟦⬜⬜ JavaScript  
-🟦🟦🟦⬜⬜⬜ Node.js  
-🟦🟦🟦⬜⬜⬜ MongoDB  
-🟦🟦🟦🟦⬜⬜ HTML & CSS  
+🌸 Analytical Thinking  
+🌸 Strategic Planning  
+🌸 Communication & Leadership  
+🌸 Behavioral Insight  
+🌸 Problem Solving  
 
 ---
 
-## 🚀 Featured Work
+## 💻 Tech & Analysis Skills
+
+### 📊 Business & Strategy
+Requirement Analysis • Strategic Thinking • Process Understanding
+
+### 💻 Development
+JavaScript • Node.js • MongoDB • React • HTML • CSS
+
+### 🌱 Personal Strengths
+Communication • Leadership • Creativity • Self-learning
+
+---
+
+## 🚀 Featured Projects
 
 🧠 Psychological Test Platform  
-💻 Calculator Application  
-🎨 Frontend Project Collection  
+💻 Calculator App  
+🎨 Frontend Projects  
 🌐 Adorly Website  
 🛡️ Fake Attendance Detection System  
 
@@ -56,8 +57,15 @@ I believe the best systems are built when we understand the humans behind the da
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AyodyaEkanayake&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyodyaEkanayake&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=AyodyaEkanayake&show_icons=true&theme=tokyonight&title_color=C8A2C8&icon_color=C8A2C8" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyodyaEkanayake&theme=tokyonight&ring=C8A2C8&fire=C8A2C8" />
 </p>
 
 ---
@@ -76,6 +84,4 @@ I believe the best systems are built when we understand the humans behind the da
 
 ---
 
-## 💙 Personal Philosophy
-
-Technology should empower people, not overwhelm them.
+💜 Designing technology with empathy and insight.
