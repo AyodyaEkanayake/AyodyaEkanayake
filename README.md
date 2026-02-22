@@ -109,6 +109,6 @@ Communication • Leadership • Creativity • Self-learning
 
 ---
 
-## ❄️ Personal Motto
+##  Personal Motto
 
 Design systems that understand people.
