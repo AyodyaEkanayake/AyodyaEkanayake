@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayodya Ekanayake</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines=Fullstack+%26+DevOps+Enthusiast;Technology+%2B+Psychology;Future+Business+Analyst;Human-Centered+Innovator" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines=Fullstack+%26+DevOps+Enthusiast;Technology+%2B+Psychology;Human-Centered+Innovator" alt="Typing SVG">
 </p>
 
 <!-- ===== Visitor Counter ===== -->
@@ -17,7 +17,6 @@
 - 🧊 ICT undergraduate at the University of Vavuniya  
 - 💻 Fullstack & DevOps enthusiast  
 - 🧠 Passionate about technology + psychology  
-- 📊 Aspiring Business Analyst & Project Manager  
 - 💡 Focused on people-centered innovation and system design  
 
 > I aim to bridge the gap between people, technology, and systems through fullstack development, DevOps practices, and psychological insight.
