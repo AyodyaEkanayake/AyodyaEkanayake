@@ -140,8 +140,10 @@
   <!-- Stars -->
   <img src="https://img.shields.io/github/stars/AyodyaEkanayake?style=for-the-badge&logo=github&color=1E90FF" alt="GitHub Stars" />
 
-  <!-- Public Repositories -->
-  <img src="https://img.shields.io/github/repos/AyodyaEkanayake?style=for-the-badge&logo=github&color=1E90FF" alt="GitHub Repositories" />
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AyodyaEkanayake&show_icons=true&theme=dark&count_private=true&title_color=1E90FF" alt="GitHub Stats" />
+
 
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/AyodyaEkanayake?style=for-the-badge&logo=github&color=1E90FF" alt="GitHub Followers" />
