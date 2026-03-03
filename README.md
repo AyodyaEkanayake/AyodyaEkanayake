@@ -137,7 +137,10 @@
 ## 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyodyaEkanayake&theme=flat&title=Stars,Followers,Commit,Repositories" alt="Trophies" />
+  <img src="https://img.shields.io/github/stars/AyodyaEkanayake?style=for-the-badge&logo=github&color=1E90FF" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/AyodyaEkanayake?style=for-the-badge&logo=github&color=1E90FF" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/issues/AyodyaEkanayake?style=for-the-badge&logo=github&color=1E90FF" alt="GitHub Issues" />
+  <img src="https://img.shields.io/github/contributors/AyodyaEkanayake?style=for-the-badge&logo=github&color=1E90FF" alt="GitHub Contributors" />
 </p>
 
 ---
