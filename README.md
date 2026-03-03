@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines=Fullstack+%26+DevOps+Enthusiast;Technology+%2B+Psychology;Human-Centered+Innovator" alt="Typing SVG">
 </p>
 
-<!-- ===== Visitor Counter ===== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyodyaEkanayake&label=Profile%20Views&color=1E90FF&style=flat" alt="Visitor Counter" />
-</p>
 
 ---
 
