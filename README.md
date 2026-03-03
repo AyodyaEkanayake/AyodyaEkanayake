@@ -124,10 +124,25 @@
 
 ## ✨ Featured Projects
 
-- 💻 [Psychological Test Platform](https://github.com/AyodyaEkanayake/psyc-test-platform)  
-- 🛍️ [Adorly Website](https://github.com/AyodyaEkanayake/adorly-website)  
-- 🐳 [Dockerized Fullstack App Example](#) *(upcoming)*  
-- 🛡️ [Fake Attendance Detection System](https://github.com/AyodyaEkanayake/Fake-Attendance-Detector---Group-14)  
+## ✨ Featured Projects
+
+<p align="center">
+  <a href="https://github.com/AyodyaEkanayake/psyc-test-platform" target="_blank">
+    <img src="https://img.shields.io/badge/💻-Psychological_Test_Platform-blue?style=for-the-badge&logo=github" alt="Psychological Test Platform">
+  </a>
+  &nbsp;
+  <a href="https://github.com/AyodyaEkanayake/adorly-website" target="_blank">
+    <img src="https://img.shields.io/badge/🛍️-Adorly_Website-green?style=for-the-badge&logo=github" alt="Adorly Website">
+  </a>
+  &nbsp;
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/🐳-Dockerized_Fullstack_App-orange?style=for-the-badge&logo=docker" alt="Dockerized Fullstack App">
+  </a>
+  &nbsp;
+  <a href="https://github.com/AyodyaEkanayake/Fake-Attendance-Detector---Group-14" target="_blank">
+    <img src="https://img.shields.io/badge/🛡️-Fake_Attendance_Detection-red?style=for-the-badge&logo=github" alt="Fake Attendance Detection System">
+  </a>
+</p>
 
 ---
 
