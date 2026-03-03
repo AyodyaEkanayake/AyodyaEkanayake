@@ -49,12 +49,6 @@
   <img src="https://img.shields.io/badge/Advanced_SQL-Ready-orange?style=for-the-badge&logo=mysql" alt="Advanced SQL">
 </p>
 
-<p align="center">
-  <!-- Collaborating -->
-  <a href="https://github.com/AyodyaEkanayake/adorly-website" target="_blank">
-  <img src="https://img.shields.io/badge/🛍️-E-commerce-purple?style=for-the-badge&logo=github" alt="E-commerce Platforms">
-   </a>
-</p>
 
 
 ---
