@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ayodya Ekanayake</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines=Technology+%2B+Psychology;Future+Business+Analyst;Future+Project+Manager;Human-Centered+Innovator" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines=Fullstack+%26+DevOps+Enthusiast;Technology+%2B+Psychology;Future+Business+Analyst;Human-Centered+Innovator" alt="Typing SVG">
 </p>
 
 <!-- ===== Visitor Counter ===== -->
@@ -15,18 +15,19 @@
 ## 🧑‍💻 About Me
 
 - 🧊 ICT undergraduate at the University of Vavuniya  
-- 📊 Aspiring Business Analyst & Project Manager  
+- 💻 Fullstack & DevOps enthusiast  
 - 🧠 Passionate about technology + psychology  
-- 💡 Focused on people-centered innovation and strategic thinking  
+- 📊 Aspiring Business Analyst & Project Manager  
+- 💡 Focused on people-centered innovation and system design  
 
-> I aim to bridge the gap between people and systems through insight, strategy, and empathy.
+> I aim to bridge the gap between people, technology, and systems through fullstack development, DevOps practices, and psychological insight.
 
 ---
 
 ## 🚀 Current Focus
 
 - 🔭 Working on: [Psychological Test Platform](https://github.com/AyodyaEkanayake/psyc-test-platform)  
-- 🌱 Learning: Spring Boot, C, UI/UX, Advanced SQL  
+- 🌱 Learning: Docker, Kubernetes, CI/CD, Spring Boot, React, Node.js, Advanced SQL  
 - 👯 Collaborating on: [E‑commerce platforms](https://github.com/AyodyaEkanayake/adorly-website)  
 - 📫 Reach me via: ayodyae822@gmail.com  
 - 🔗 LinkedIn: [Ayodya Ekanayake](https://www.linkedin.com/in/ayodya-ekanayake-304163365/)
@@ -43,36 +44,36 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 </p>
 
 <p align="center">
   <!-- Web & Frameworks -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
   </a>
 </p>
 
@@ -84,8 +85,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
   </a>
 </p>
 
@@ -94,17 +95,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -135,10 +127,10 @@
 
 ## ✨ Featured Projects
 
-- 🔗 [Psychological Test Platform](https://github.com/AyodyaEkanayake/psyc-test-platform)  
+- 💻 [Psychological Test Platform](https://github.com/AyodyaEkanayake/psyc-test-platform)  
 - 🛍️ [Adorly Website](https://github.com/AyodyaEkanayake/adorly-website)  
-- 💻 [Calculator App](https://github.com/AyodyaEkanayake/CalculatorApp)  
-- 🛡️ [Fake Attendance Detection System](https://github.com/AyodyaEkanayake/Fake-Attendance-Detector---Group-14)
+- 🐳 [Dockerized Fullstack App Example](#) *(upcoming)*  
+- 🛡️ [Fake Attendance Detection System](https://github.com/AyodyaEkanayake/Fake-Attendance-Detector---Group-14)  
 
 ---
 
@@ -170,4 +162,4 @@
 
 ## 💡 Personal Motto
 
-> **Design systems that understand people.**
+> **Design systems that understand people, powered by fullstack development, DevOps automation, and psychological insight.**
