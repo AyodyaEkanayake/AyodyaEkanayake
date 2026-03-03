@@ -25,12 +25,51 @@
 
 ## 🚀 Current Focus
 
-- 🔭 Working on: [Psychological Test Platform](https://github.com/AyodyaEkanayake/psyc-test-platform)  
-- 🌱 Learning: Docker, Kubernetes, CI/CD, Spring Boot, React, Node.js, Advanced SQL  
-- 👯 Collaborating on: [E‑commerce platforms](https://github.com/AyodyaEkanayake/adorly-website)  
-- 📫 Reach me via: ayodyae822@gmail.com  
-- 🔗 LinkedIn: [Ayodya Ekanayake](https://www.linkedin.com/in/ayodya-ekanayake-304163365/)
+<p align="center">
+  <!-- Working On -->
+  <strong>🔭 Working On:</strong>
+  <a href="https://github.com/AyodyaEkanayake/psyc-test-platform" target="_blank">
+    <img src="https://img.shields.io/badge/💻-Psychological_Test_Platform-yellow?style=for-the-badge&logo=github" alt="Psychological Test Platform">
+  </a>
+  &nbsp;
+  <a href="https://github.com/AyodyaEkanayake/UniNest" target="_blank">
+    <img src="https://img.shields.io/badge/🏫-UniNest_Hostel_Allocation-blue?style=for-the-badge&logo=github" alt="UniNest Hostel Allocation">
+  </a>
+</p>
 
+<p align="center">
+  <!-- Learning -->
+  <strong>🌱 Learning:</strong>
+  <img src="https://img.shields.io/badge/Docker-Ready-blue?style=for-the-badge&logo=docker" alt="Docker">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kubernetes-Ready-blue?style=for-the-badge&logo=kubernetes" alt="Kubernetes">
+  &nbsp;
+  <img src="https://img.shields.io/badge/CI%2FCD-Ready-blue?style=for-the-badge&logo=jenkins" alt="CI/CD">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Spring_Boot-Ready-green?style=for-the-badge&logo=spring" alt="Spring Boot">
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-Ready-blue?style=for-the-badge&logo=react" alt="React">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Node.js-Ready-green?style=for-the-badge&logo=node.js" alt="Node.js">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Advanced_SQL-Ready-orange?style=for-the-badge&logo=mysql" alt="Advanced SQL">
+</p>
+
+<p align="center">
+  <!-- Collaborating -->
+  <strong>👯 Collaborating On:</strong>
+  <a href="https://github.com/AyodyaEkanayake/adorly-website" target="_blank">
+    <img src="https://img.shields.io/badge/🛍️-E-commerce_Platform-purple?style=for-the-badge&logo=github" alt="E-commerce Platforms">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Contact -->
+  <strong>📫 Reach Me Via:</strong>
+  <a href="mailto:ayodyae822@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</p>
 ---
 
 ## 🛠️ Skills & Tools
