@@ -187,36 +187,17 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-
-  <!-- LinkedIn -->
+  
   <a href="https://www.linkedin.com/in/ayodya-ekanayake-304163365/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=ffffff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=0A66C2" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg?color=0A66C2" width="40" height="40" alt="LinkedIn"/>
-    </picture>
+    <img src="https://img.shields.io/badge/LinkedIn-Ayodya_Ekanayake-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  &nbsp;&nbsp;
-
-  <!-- Gmail -->
   <a href="mailto:ayodyae822@gmail.com" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg?color=ffffff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg?color=EA4335" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg?color=EA4335" width="40" height="40" alt="Email"/>
-    </picture>
+    <img src="https://img.shields.io/badge/Email-ayodyae822%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  &nbsp;&nbsp;
-
-  <!-- GitHub -->
   <a href="https://github.com/AyodyaEkanayake" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg?color=ffffff" />
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg?color=000000" />
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg?color=000000" width="40" height="40" alt="GitHub"/>
-    </picture>
+    <img src="https://img.shields.io/badge/GitHub-AyodyaEkanayake-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 </p>
