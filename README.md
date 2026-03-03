@@ -107,11 +107,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyodyaEkanayake&show_icons=true&theme=default&title_color=1E90FF&icon_color=1E90FF&text_color=2F2F2F" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyodyaEkanayake&layout=compact&theme=default&title_color=1E90FF" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/AyodyaEkanayake?label=Followers&style=for-the-badge&color=1E90FF" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/AyodyaEkanayake?label=Stars&style=for-the-badge&color=1E90FF" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/repo-size/AyodyaEkanayake/psyc-test-platform?style=for-the-badge&color=1E90FF" alt="Repo Size"/>
 </p>
 
 ---
