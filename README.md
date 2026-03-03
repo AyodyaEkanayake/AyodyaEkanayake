@@ -124,19 +124,25 @@
 
 ## ✨ Featured Projects
 
-## ✨ Featured Projects
-
 <p align="center">
+  <a href="https://github.com/AyodyaEkanayake/UniNest" target="_blank">
+    <img src="https://img.shields.io/badge/🏫-UniNest_Hostel_Allocation-blue?style=for-the-badge&logo=github" alt="UniNest Hostel Allocation">
+  </a>
+  &nbsp;
+  <a href="https://github.com/AyodyaEkanayake/CalculatorApp" target="_blank">
+    <img src="https://img.shields.io/badge/📱-Calculator_App-green?style=for-the-badge&logo=github" alt="Calculator App">
+  </a>
+  &nbsp;
   <a href="https://github.com/AyodyaEkanayake/psyc-test-platform" target="_blank">
-    <img src="https://img.shields.io/badge/💻-Psychological_Test_Platform-blue?style=for-the-badge&logo=github" alt="Psychological Test Platform">
+    <img src="https://img.shields.io/badge/💻-Psychological_Test_Platform-yellow?style=for-the-badge&logo=github" alt="Psychological Test Platform">
+  </a>
+  &nbsp;
+  <a href="https://github.com/AyodyaEkanayake/Frontend-Projects-" target="_blank">
+    <img src="https://img.shields.io/badge/🎨-Frontend_Projects-orange?style=for-the-badge&logo=github" alt="Frontend Projects">
   </a>
   &nbsp;
   <a href="https://github.com/AyodyaEkanayake/adorly-website" target="_blank">
-    <img src="https://img.shields.io/badge/🛍️-Adorly_Website-green?style=for-the-badge&logo=github" alt="Adorly Website">
-  </a>
-  &nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/🐳-Dockerized_Fullstack_App-orange?style=for-the-badge&logo=docker" alt="Dockerized Fullstack App">
+    <img src="https://img.shields.io/badge/🛍️-Adorly_Website-purple?style=for-the-badge&logo=github" alt="Adorly Website">
   </a>
   &nbsp;
   <a href="https://github.com/AyodyaEkanayake/Fake-Attendance-Detector---Group-14" target="_blank">
