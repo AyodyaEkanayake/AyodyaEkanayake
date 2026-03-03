@@ -134,13 +134,17 @@
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 GitHub Stats & Achievements
 
 <p align="center">
+  <!-- Stars -->
   <img src="https://img.shields.io/github/stars/AyodyaEkanayake?style=for-the-badge&logo=github&color=1E90FF" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/forks/AyodyaEkanayake?style=for-the-badge&logo=github&color=1E90FF" alt="GitHub Forks" />
-  <img src="https://img.shields.io/github/issues/AyodyaEkanayake?style=for-the-badge&logo=github&color=1E90FF" alt="GitHub Issues" />
-  <img src="https://img.shields.io/github/contributors/AyodyaEkanayake?style=for-the-badge&logo=github&color=1E90FF" alt="GitHub Contributors" />
+
+  <!-- Public Repositories -->
+  <img src="https://img.shields.io/github/repos/AyodyaEkanayake?style=for-the-badge&logo=github&color=1E90FF" alt="GitHub Repos" />
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/AyodyaEkanayake?style=for-the-badge&logo=github&color=1E90FF" alt="GitHub Followers" />
 </p>
 
 ---
