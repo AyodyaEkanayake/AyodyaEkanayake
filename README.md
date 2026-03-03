@@ -179,9 +179,9 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AyodyaEkanayake/AyodyaEkanayake/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
+<p align="center"> <img src="https://github.com/AyodyaEkanayake/AyodyaEkanayake/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" /> </p>
+
+
 ---
 
 ## 🌍 Connect With Me
