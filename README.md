@@ -145,15 +145,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayodya-ekanayake-304163365/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin-white.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="filter: brightness(0) invert(1);"/>
   </a>
   &nbsp;
   <a href="mailto:ayodyae822@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail-white.svg" alt="Email" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40" style="filter: brightness(0) invert(1);"/>
   </a>
   &nbsp;
   <a href="https://github.com/AyodyaEkanayake" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github-white.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40" style="filter: brightness(0) invert(1);"/>
   </a>
 </p>
 
