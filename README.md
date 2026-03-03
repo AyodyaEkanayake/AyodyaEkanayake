@@ -27,7 +27,6 @@
 
 <p align="center">
   <!-- Working On -->
-  <strong>🔭 Working On:</strong>
   <a href="https://github.com/AyodyaEkanayake/psyc-test-platform" target="_blank">
     <img src="https://img.shields.io/badge/💻-Psychological_Test_Platform-yellow?style=for-the-badge&logo=github" alt="Psychological Test Platform">
   </a>
@@ -39,7 +38,6 @@
 
 <p align="center">
   <!-- Learning -->
-  <strong>🌱 Learning:</strong>
   <img src="https://img.shields.io/badge/Docker-Ready-blue?style=for-the-badge&logo=docker" alt="Docker">
   &nbsp;
   <img src="https://img.shields.io/badge/Kubernetes-Ready-blue?style=for-the-badge&logo=kubernetes" alt="Kubernetes">
@@ -57,19 +55,12 @@
 
 <p align="center">
   <!-- Collaborating -->
-  <strong>👯 Collaborating On:</strong>
   <a href="https://github.com/AyodyaEkanayake/adorly-website" target="_blank">
     <img src="https://img.shields.io/badge/🛍️-E-commerce_Platform-purple?style=for-the-badge&logo=github" alt="E-commerce Platforms">
   </a>
 </p>
 
-<p align="center">
-  <!-- Contact -->
-  <strong>📫 Reach Me Via:</strong>
-  <a href="mailto:ayodyae822@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-</p>
+
 ---
 
 ## 🛠️ Skills & Tools
